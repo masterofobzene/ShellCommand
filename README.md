@@ -29,7 +29,7 @@ This project provides a custom Windows Shell Extension built with .NET 4.8 and S
 1. Run "uninstall.bat"
 2. Optionally remove the "ShellCommand" folder inside `%APPDATA%`.
 
-   Warning, doing this will remove all your "configuration" so reinstall will be done from ground up again.
+   Warning, doing this will remove all your "configuration"
 
 ## Customization
 
