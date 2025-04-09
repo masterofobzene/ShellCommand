@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\bin\Release\ShellCommand.dll
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\bin\Release\ShellCommand.pdb
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\bin\Release\SharpShell.dll
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\bin\Release\SharpShell.xml
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\obj\Release\ShellCommand.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\obj\Release\ShellCommand.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\obj\Release\ShellCom.5085D1A4.Up2Date
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\obj\Release\ShellCommand.dll
+C:\Users\PC\source\repos\ShellCommand\ShellCommand\obj\Release\ShellCommand.pdb

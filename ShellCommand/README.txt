@@ -1,0 +1,1 @@
+You must create a new "key.snk.pfx" key for your own project.
