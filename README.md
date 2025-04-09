@@ -36,7 +36,7 @@ This project provides a custom Windows Shell Extension built with .NET 4.8 and S
 The extension supports icons, to use your custom icons make sure they have many sizes embedded in them (mostly 16x16 and 32x32 versions) and name them the same as the folder or script file you have, e.g. Move.bat -> Move.ico. The script is DPI-aware so icons are correctly represented even at %200 scaling (4k). 
 
 To add your own script, first make sure it accepts paths of files or folders as arguments. Then you just put them inside the folder
-you want as a context menu e.g. `%APPDATA%\ShellCommand\[jpg,jpeg,png]\Move\myscript.ps1` on this example, you will see a "Move" entry with a submenu with your script ("myscript") only when you right click on a jpg or jpeg, or png file. You're getting it right?😉  
+you want as a context menu e.g. `%APPDATA%\ShellCommand\[jpg,jpeg,png]\Move\myscript.ps1` on this example, you will see a "Move" entry with a submenu with your script ("myscript") only when you right click on a jpg or jpeg, or png file. Starts making sense?😉  
 Just keep doing that with all the scripts you need. You can set whathever extension you need.
 
 ```
