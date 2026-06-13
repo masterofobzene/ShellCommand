@@ -1,6 +1,4 @@
 # ShellCommand Context Menu Extension
-(thank you [Oleg](https://github.com/oleg-shilo/shell-x))
-
 
 ![24](https://github.com/user-attachments/assets/84e837d5-685d-4bb9-91e7-8c0d53a60b8a)
 
